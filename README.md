@@ -2,4 +2,5 @@
 Atividade:
 Criando Site de Receitas simples com flexbox
 
-Creditos: Vinicius Henrique 
+
+Link site: https://sonyng.github.io/Site-de-Receitas/
